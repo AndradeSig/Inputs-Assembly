@@ -36,4 +36,4 @@ Pronto! Se não ter dado nenhum erro neste processo, você já poderá abrir o a
 ./input
 ```
 ####
-Agora, no Terminal, aparecerá para você digitar um nome. Basta digitar o nome, que aparecerá a saída, mostrando o nome!
+Agora, no Terminal, aparecerá para você digitar um nome. Basta digitar o nome, que aparecerá a saída com o nome digitado!
