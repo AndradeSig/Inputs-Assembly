@@ -33,7 +33,7 @@ ld -s -e start -o input input.o
 Pronto! Se não ter dado nenhum erro neste processo, você já poderá abrir o arquivo compilado
 <br/>
 ```
-./helloWorld
+./input
 ```
 ####
 Agora, no Terminal, aparecerá para você digitar um nome. Basta digitar o nome, que aparecerá a saída, mostrando o nome!
